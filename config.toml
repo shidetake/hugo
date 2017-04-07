@@ -1,0 +1,3 @@
+baseurl = "http://shidetake.com/"
+title = "My New Hugo Site"
+theme = "hugo_theme_robust"
