@@ -1,4 +1,4 @@
-local_url = "shidetake.me"
+local_url = "localhost"
 
 help:
 	@echo 'make deploy: deploy'
@@ -10,4 +10,4 @@ deploy:
 	cd public; git push origin master
 
 dryrun:
-	hugo server --baseURL=$(local_url) --bind=$(local_url)
+	hugo server --baseURL=$(local_url) --bind=$(local_url) -p1314
