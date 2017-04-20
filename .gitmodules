@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:shidetake/shidetake.github.io.git
 	branch = master
+[submodule "themes/hugo_theme_robust"]
+	path = themes/hugo_theme_robust
+	url = https://github.com/dim0627/hugo_theme_robust.git
