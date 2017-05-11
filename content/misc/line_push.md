@@ -33,15 +33,15 @@ function mailUserId(e) {
 
 ## curlでMessaging APIのPUSH通知を使う
 - CHANNEL_ACCESS_TOKENは上で使ったものと同じ
-- useridはプッシュ先
-  - 今回は上で取得した自分のuseridを使う
+- USERIDはプッシュ先
+  - 今回は上で取得した自分のユーザIDを使う
 
 ```bash
 curl -X POST \
 -H 'Content-Type:application/json' \
 -H 'Authorization: Bearer {CHANNEL_ACCESS_TOKEN}' \
 -d '{
-    "to": "userid",
+    "to": "USERID",
     "messages":[
         {
             "type": "text",
@@ -50,3 +50,6 @@ curl -X POST \
     ]
 }' https://api.line.me/v2/bot/message/push
 ```
+
+## 関連ポスト
+[Amazon Dash ButtonからLINE通知](../dash_button/)
