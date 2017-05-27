@@ -31,7 +31,18 @@ title = "cheat_sheet"
 
 # リンク
 ## 絶対パス
-[Google](http://google.com)
+[Google](http://google.com)  
+http://google.com
 
 ## 相対パス
 [LINE BOTでPUSH通知する](../../misc/line_push/)
+
+
+# シンタックスハイライト
+## ブロック
+```ruby
+p hello
+```
+
+## インライン
+文章の途中で`p hello`こんな感じ
