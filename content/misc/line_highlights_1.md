@@ -4,7 +4,7 @@ date = "2017-05-27T13:08:32+09:00"
 draft = false
 tags = []
 thumbnail = ""
-title = "KindleのハイライトをLINEに通知する"
+title = "KindleのハイライトをLINEに通知する 1"
 
 +++
 
@@ -105,6 +105,8 @@ crawler.scrape
 - 次のページへの遷移で少しハマった。hiddenなクラスのリンクを取得するには`visible: false`する必要があるらしい
 
 とりあえず今回はここまで。
+
+[続きはこちら](../line_highlights_2/)
 
 ## TODO
 - [x] クローラー作成
