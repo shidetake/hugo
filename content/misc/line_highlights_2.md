@@ -70,3 +70,5 @@ push_highlightメソッドを使って、前回標準出力していた文字列
 +   @line.push_message(@user_id, message)
 + end
 ```
+
+[続きはこちら](../line_highlights_3/)
