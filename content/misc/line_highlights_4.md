@@ -27,8 +27,8 @@ title = "KindleのハイライトをLINEに通知する 4"
 
 
 ## JSON形式で保存
-以下のメソッドで```@highlights```という配列をJSON形式にして保存する。
-```'json'```を忘れずに```require```すること。
+以下のメソッドで`@highlights`という配列をJSON形式にして保存する。
+`'json'`を忘れずに`require`すること。
 
 ```ruby
   # ハイライトをJSON形式にして外部ファイルに保存する
@@ -40,7 +40,7 @@ title = "KindleのハイライトをLINEに通知する 4"
 ```
 
 ## JSON形式のファイルを読み出し
-以下のメソッドでJSON_FILE_NAMEというJSON形式ファイルから```@highlights```配列にデータを読み出す。
+以下のメソッドでJSON_FILE_NAMEというJSON形式ファイルから`@highlights`配列にデータを読み出す。
 
 ```ruby
   # 外部ファイルから既に取得しているハイライトを読み出す
@@ -52,4 +52,8 @@ title = "KindleのハイライトをLINEに通知する 4"
   end
 ```
 
-あとは、```@highlights```に存在しないハイライトだけをLINEで送信し、外部ファイルに保存すればよい。
+あとは、`@highlights`に存在しないハイライトだけをLINEで送信し、外部ファイルに保存すればよい。
+
+## 全ソース
+githubに全ソースをあげた。
+https://github.com/shidetake/line_kindle_highlights
