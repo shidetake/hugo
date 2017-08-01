@@ -54,4 +54,4 @@ your@emailとyour_access_tokenにはそれぞれ自分の（Access token取得�
 
 Google Photoのアルバム名の一覧が表示されれば成功。Access tokenがちゃんと使えることがわかった。
 
-次回以降で写真の取得、Exif情報の取得あたりのやり方を書いていく。
+[次回](../google_photo_api_2/)以降で写真の取得、Exif情報の取得あたりのやり方を書いていく。
