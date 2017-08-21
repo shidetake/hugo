@@ -32,7 +32,7 @@ title = "テレビのアンテナ線を無線化する"
 - 無線LANルーター 親機
 
 ## 構成
-![image](https://goo.gl/SfmDcn)
+![image](http://ift.tt/2uZ3rzy)
 
 ## 環境構築手順
 0. 無線LAN環境を構築

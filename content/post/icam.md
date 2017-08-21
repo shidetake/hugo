@@ -25,7 +25,7 @@ iCamを使って外出先から部屋にいる犬の様子を見たいが、MBA�
   - iCam
 
 ## 構成
-![image](https://goo.gl/Gmb8qZ)
+![image](http://ift.tt/2vi1qtp)
 
 ## iPadのウェブカメラ化
 EpocCamというアプリを使って、iPadのカメラ画像をMBAで受信する。
@@ -33,7 +33,7 @@ EpocCamというアプリを使って、iPadのカメラ画像をMBAで受信す
 
 更に、それをCamTwistというアプリで受けることで、ウェブカメラの入力画像のように使えるようになる。
 
-![image](https://goo.gl/kgTeQn)
+![image](http://ift.tt/2uYxTtD)
 
 EpocCamが繋がっている状態 (上図左下) で、CamTwistの設定をSyphonにして、Syphon ServerとしてEpocCam Viewer Proを選択する (上図上) 。
 CamTwistのPreviewにEpocCamと同じ映像が表示されれば成功 (上図右下) 。
@@ -42,6 +42,6 @@ CamTwistのPreviewにEpocCamと同じ映像が表示されれば成功 (上図�
 MBAにiCamSourceというアプリを入れて、VideoにCamTwist (2VUY)を選択する。
 idとパスワードは適当に入力して、右下のStartボタンを押して、EpocCamと同じ映像が表示されれば成功。
 
-![image](https://goo.gl/Qqfd66)
+![image](http://ift.tt/2vhuf9q)
 
 iPhoneに入れたiCamアプリにidとパスワードを入力するとiPadのカメラの映像を見ることができる。
