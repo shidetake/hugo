@@ -20,10 +20,13 @@ title = "Google Finance APIを使って株価チャートを作成"
 国内で株価を取得するためのAPIは（正規には）ないらしい。
 ただ、Google Finance APIという非公式のAPIがあり、使ってる人は使っているとか。
 
-[google financeのAPIのメモ](http://ymtttk.hatenablog.jp/entry/2017/02/18/192130)というサイトが参考になる。
+[google financeのAPIのメモ](http://ymtttk.hatenablog.jp/entry/2017/02/18/192130)という記事が参考になる。
 今回やりたいことのほとんどはここに書いてある。
 違いは、
-- Rubyを使う (Pythonのが需要ありそうだけど) - チャートを描く
+
+- Rubyを使う (Pythonのが需要ありそうだけど) 
+- チャートを描く
+
 くらい。
 
 まずは適当な銘柄の株価を以下のように取得する。
