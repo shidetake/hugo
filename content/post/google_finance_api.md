@@ -16,6 +16,13 @@ title = "Google Finance APIを使って株価チャートを作成"
 
 <!--more-->
 
+2017.9.16追記  
+これを公開した直後にAPIのURLが変わった模様。
+
+元は`https://www.google.com/finance/getprices?`だったが、今は`https://finance.google.com/finance/getprices?`になっている。
+この記事のコードも修正したので、そのまま使えるはず。
+
+
 ## Google Finance API
 国内で株価を取得するためのAPIは（正規には）ないらしい。
 ただ、Google Finance APIという非公式のAPIがあり、使ってる人は使っているとか。
@@ -37,7 +44,7 @@ require 'net/http'
 
 class GoogleFinance
 
-  BASE_URL = 'https://www.google.com/finance/getprices?'
+  BASE_URL = 'https://finance.google.com/finance/getprices?'
 
   def initialize(issue)
     @issue = issue
