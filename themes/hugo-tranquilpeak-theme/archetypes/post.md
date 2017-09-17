@@ -1,15 +1,11 @@
 ---
-title: "New Post"
-date: 2015-05-28
+title: "title"
+date: ""
 categories:
-- category
-- subcategory
+- Tech
 tags:
 - tag1
 - tag2
-keywords:
-- tech
-#thumbnailImage: //example.com/image.jpg
 ---
 
 <!--more-->
