@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-07-30 22:56:40"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["API","Ruby"]
 title = "Picasa APIを使ってGoogle Photoからデジカメ写真だけを取得 1"
 
 +++

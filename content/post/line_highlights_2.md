@@ -1,9 +1,7 @@
 +++
-categories = []
+categories = ["Tech"]
 date = "2017-06-04T22:44:34+09:00"
-draft = false
-tags = []
-thumbnail = ""
+tags = ["Kindle","LINE BOT","Scraping","Ruby"]
 title = "KindleのハイライトをLINEに通知する 2"
 
 +++

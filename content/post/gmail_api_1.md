@@ -1,9 +1,7 @@
 +++
-categories = []
+categories = ["Tech"]
 date = "2017-06-20T22:55:21+09:00"
-draft = false
-tags = []
-thumbnail = ""
+tags = ["API","Ruby"]
 title = "RubyでGmail本文を取得する 1"
 
 +++

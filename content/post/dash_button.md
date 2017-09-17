@@ -1,9 +1,7 @@
 +++
-categories = []
+categories = ["Tech"]
 date = "2017-05-11T22:31:20+09:00"
-draft = false
-tags = []
-thumbnail = ""
+tags = ["Amazon Dash Button","LINE BOT"]
 title = "Amazon Dash ButtonからLINE通知"
 
 +++

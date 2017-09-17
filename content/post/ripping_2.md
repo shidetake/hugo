@@ -1,9 +1,7 @@
 +++
-categories = []
+categories = ["Tech"]
 date = "2017-07-10T22:41:58+09:00"
-draft = false
-tags = []
-thumbnail = ""
+tags = ["Ripping"]
 title = "HandBrakeCLIによるDVDリッピング 2"
 
 +++

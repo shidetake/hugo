@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-08-21 22:44:54"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["Blog"]
 title = "IFTTTとGoogle Photoを連携するとブログ用の画像準備がはかどる"
 
 +++

@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-09-03 10:27:20"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["LINE BOT","Scraping"]
 title = "IIJmioの追加クーポンをLINE botに買ってもらう"
 
 +++

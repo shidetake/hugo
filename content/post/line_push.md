@@ -1,6 +1,7 @@
 +++
+categories = ["Tech"]
 date = "2017-04-17T23:11:57+09:00"
-draft = false
+tags = ["LINE BOT"]
 title = "LINE BOTでPUSH通知する"
 
 +++

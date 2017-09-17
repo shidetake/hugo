@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-09-17 16:36:18"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["Fintech","Ruby","API"]
 title = "株価チャートからトレンドラインを引く 1"
 
 +++

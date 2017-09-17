@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-09-04 23:14:36"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["Fintech","Ruby","API"]
 title = "Google Finance APIを使って株価チャートを作成"
 
 +++

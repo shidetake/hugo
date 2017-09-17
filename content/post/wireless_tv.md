@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-08-10 22:26:23"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["Smart home"]
 title = "テレビのアンテナ線を無線化する"
 
 +++

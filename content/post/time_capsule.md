@@ -1,9 +1,7 @@
 +++
-categories = []
+categories = ["Tech"]
 date = "2017-05-14T21:01:17+09:00"
-draft = false
-tags = []
-thumbnail = ""
+tags = ["Smart home"]
 title = "Time Machineの容量制限"
 
 +++

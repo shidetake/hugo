@@ -1,8 +1,7 @@
 +++
-categories = ["category","subcategory"]
+categories = ["Tech"]
 date = "2017-08-17 17:14:33"
-keywords = ["tech"]
-tags = ["tag1","tag2"]
+tags = ["Smart home"]
 title = "iPadをウェブカメラ化してiCamSourceと連携"
 
 +++
