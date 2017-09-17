@@ -8,6 +8,8 @@ title = "RubyでGmail本文を取得する 1"
 
 GmailのAPIをRubyで使う方法を何回かに分けて書く。
 
+<!--more-->
+
 ## API準備
 まずはAPIを使うための準備。https://console.developers.google.com/ にアクセスして、プロジェクトを作成する。
 それから、Gmail APIを有効にし、認証情報を追加する。

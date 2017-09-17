@@ -11,6 +11,8 @@ KindleにはハイライトをメールやTwitterでシェアする機能があ�
 
 ハイライトした内容は https://kindle.amazon.co.jp/your_highlights で見えるので、これを取得して通知するクローラーを作ればよい。
 
+<!--more-->
+
 ## クローラー作成
 RubyのCapybaraを使った。
 

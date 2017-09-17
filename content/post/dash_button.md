@@ -6,6 +6,8 @@ title = "Amazon Dash ButtonからLINE通知"
 
 +++
 
+<!--more-->
+
 ## dasher導入
 他の人が詳しく書いているので割愛。  
 個人的には[Amazon Dash Button と slackを連携させる](http://kakts-tec.hatenablog.com/entry/2016/12/10/231205)という記事がとても参考になった。
