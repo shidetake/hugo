@@ -101,7 +101,7 @@ init.dで言うrunlevelの指定に相当する。
 `/etc/systemd/system/dasher.service`に置いて、
 
 ```bash
-systemctl list-unit-files --type=service | dasher
+systemctl list-unit-files --type=service | grep dasher
 ```
 
 すると、dasher.serviceがサービスとして認識されていることがわかる。
