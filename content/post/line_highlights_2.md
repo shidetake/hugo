@@ -39,7 +39,7 @@ Amazonのウェブサイト固有の問題で、ユーザーエージェント�
 
 
 ## LINE通知
-line-bot-apiを使った。だいたい以下のような感じ。Channel Secret, Channel Access Token, userIdはLINE developersから取得して入力すること。
+[line-bot-api](https://github.com/line/line-bot-sdk-ruby)を使った。だいたい以下のような感じ。Channel Secret, Channel Access Token, userIdはLINE developersから取得して入力すること。
 push_highlightメソッドを使って、前回標準出力していた文字列をLINEに送れる。
 
 ```diff
