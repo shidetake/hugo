@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-10-01T22:27:25+09:00"
-tags = ["tag1","tag2"]
+tags = ["Ubuntu","Linux","mysql"]
 title = "Ubuntu 16.04にmysqlをインストールする"
 
 +++
