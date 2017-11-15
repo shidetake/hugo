@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-10-16T22:43:05+09:00"
-tags = ["cron","Raspberry Pi"]
+tags = ["cron","Raspberry Pi","network"]
 title = "スピードテストを定期的に実行して回線速度の推移を見る"
 
 +++
