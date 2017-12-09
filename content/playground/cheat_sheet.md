@@ -59,6 +59,16 @@ __強い__
       - 3段目は3タブ
 - 1段目2
 
+## 表
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       | This        | This         |
+| column     | column      | column       |
+| will       | will        | will         |
+| be         | be          | be           |
+| left       | right       | center       |
+| aligned    | aligned     | aligned      |
+
 # Category
 タグとの使い分けが難しい。イメージ的には、完全に分離できるものがカテゴリーで、重複を許すのがタグ。
 例えば、テック系か日常の日記のような記事かはカテゴリーで分ける。
