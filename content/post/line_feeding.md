@@ -1,5 +1,5 @@
 ---
-title: "定期的なリマインダーをLINE BOTにやってもらう"
+title: "定期的なリマインドをLINE BOTにやってもらう"
 date: 2017-12-21T22:46:24+09:00
 categories:
 - Tech
