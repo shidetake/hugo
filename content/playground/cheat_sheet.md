@@ -91,3 +91,20 @@ rubyとRubyとか。現時点ではざっくり以下のタグわけ
 - Ripping
 - Kindle
 - Amazon Dash Button
+
+# Amazonアソシエイト
+## テキスト
+[任意のテキスト](http://amzn.to/2CuC9Qc)
+
+## 画像
+小
+<a href="https://www.amazon.co.jp/Kindle-Paperwhite-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-Wi-Fi-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B00QJDOM6U/ref=as_li_ss_il?ie=UTF8&qid=1518946008&sr=8-2&keywords=kindle&linkCode=li1&tag=shidetake0e-22&linkId=06cf4657a1480646e915ff34bda84373" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QJDOM6U&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=shidetake0e-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=shidetake0e-22&l=li1&o=9&a=B00QJDOM6U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+中
+<a href="https://www.amazon.co.jp/Kindle-Paperwhite-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-Wi-Fi-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B00QJDOM6U/ref=as_li_ss_il?ie=UTF8&qid=1518946008&sr=8-2&keywords=kindle&linkCode=li2&tag=shidetake0e-22&linkId=0eca241f7fe8e004ca2cb53345f74ef4" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QJDOM6U&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=shidetake0e-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=shidetake0e-22&l=li2&o=9&a=B00QJDOM6U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+大
+<a href="https://www.amazon.co.jp/Kindle-Paperwhite-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-Wi-Fi-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B00QJDOM6U/ref=as_li_ss_il?ie=UTF8&qid=1518946008&sr=8-2&keywords=kindle&linkCode=li3&tag=shidetake0e-22&linkId=d4b4280270aa00c819d5a99ba50aae18" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QJDOM6U&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=shidetake0e-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=shidetake0e-22&l=li3&o=9&a=B00QJDOM6U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## テキストと画像
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=shidetake0e-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00QJDOM6U&linkId=05fa0e9ef8fc667966c6780e891940c1"></iframe>
