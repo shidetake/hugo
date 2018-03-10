@@ -8,7 +8,7 @@ tags:
 #thumbnailImage: //example.com/image.jpg
 ---
 
-最近、Ruby on Railsチュートリアルを進めているんだけど、
+最近、[Ruby on Railsチュートリアル](https://railstutorial.jp)を進めているんだけど、
 その中でHerokuを使うことになる。で、途中まで進めて、別の日に続きをやろうとすると、作っているWebサービスのURLがわからなくなり、
 いちいちHerokuにログインして確認するという手間が発生する。
 
