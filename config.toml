@@ -22,6 +22,9 @@ googleAnalytics = "UA-100589187-1"
 paginate = 7
 canonifyurls = true
 
+[blackfriday]
+  hrefTargetBlank = true
+
 [permalinks]
   post = "../:filename/"
 
