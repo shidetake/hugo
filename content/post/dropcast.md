@@ -6,7 +6,7 @@ categories:
 tags:
 - shell
 - API
-#thumbnailImage: //example.com/image.jpg
+thumbnailImage: https://ift.tt/2ooqgXo
 ---
 
 最近Podcastにハマっている。
@@ -16,6 +16,11 @@ Rebuild.fmから始まり、backspace.fm、TCFM、バイリンガルニュース
 できればPodcastと同じように聞きたいなと思い、自分専用に配信すればよいのでは、と考えて作ってみた。
 
 <!--more-->
+
+# スクリーンショット
+![image](https://ift.tt/2ooqgXo)
+当然、著作物は私的利用に留めること。
+音源もPodcast配信用のRSSファイルも自分しかアクセスできない場所に置いているので私的利用の範囲内。
 
 # 動機
 上でも書いたが、Podcastにハマっているので、それと同じ体験で聞けるととても楽。
