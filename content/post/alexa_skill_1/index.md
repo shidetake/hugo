@@ -5,6 +5,7 @@ categories:
 - Tech
 tags:
 - Alexa Skills
+thumbnailImage: /img/alexa_skill_1.png
 ---
 
 Amazon Echoが届いたので、早速スキルを作ってみることにした。
@@ -13,7 +14,7 @@ Amazon Echoが届いたので、早速スキルを作ってみることにした
 <!--more-->
 
 ## 構成
-![image](http://ift.tt/2B4AsMG)
+![image](/img/alexa_skill_1.png)
 
 Amazon Echoにスキルをインストールして、声でスキルを呼び出す。
 呼び出されたスキルは、登録されたAWS Lambdaの関数を呼び出して、処理を実行するという流れ。

@@ -1,10 +1,13 @@
-+++
-categories = ["Tech"]
-date = "2017-09-03 10:27:20"
-tags = ["LINE BOT","Scraping"]
-title = "IIJmioの追加クーポンをLINE botに買ってもらう"
-
-+++
+---
+title: "IIJmioの追加クーポンをLINE botに買ってもらう"
+date: 2017-09-03T10:27:20+09:00
+categories:
+- Tech
+tags:
+- LINE BOT
+- Scraping
+thumbnailImage: /img/iij_coupon.png
+---
 
 IIJmioにはIIJmioクーポンスイッチというiPhoneアプリが用意されているが、
 残りの通信量（IIJではクーポンと呼ぶ）を見ることはできても、追加購入することができない。
@@ -15,13 +18,13 @@ IIJmioにはIIJmioクーポンスイッチというiPhoneアプリが用意さ�
 <!--more-->
 
 ## 実行画面
-![image](http://ift.tt/2iSCU12) ![image](http://ift.tt/2wtX1rd)
+![image](/img/iij_coupon.png) ![image](img/2.png)
 
 ## 構成
 0. LINEメッセージをMessaging APIが受けて、Google Apps Scriptを発動
 0. GASはソケット通信でVPS上のrubyスクリプトを起こす
 0. rubyスクリプト上でCapybaraさんがIIJmioのウェブページにクーポン購入を依頼する
-![image](http://ift.tt/2vBgyXT)
+![image](img/3.png)
 
 ## クローラー作成
 [Kindleのハイライト通知](../line_highlights_1/)のときと同じような作り。

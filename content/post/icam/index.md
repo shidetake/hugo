@@ -1,10 +1,12 @@
-+++
-categories = ["Tech"]
-date = "2017-08-17 17:14:33"
-tags = ["Smart home"]
-title = "iPadをウェブカメラ化してiCamSourceと連携"
-
-+++
+---
+title: "iPadをウェブカメラ化してiCamSourceと連携"
+date: 2017-08-17T17:14:33+09:00
+categories:
+- Tech
+tags:
+- Smart home
+thumbnailImage: /img/icam.png
+---
 
 iCamを使って外出先から部屋にいる犬の様子を見たいが、MBAのカメラ1つじゃ視野が狭い。
 ということで、部屋に置いているiPadのカメラの映像も同時に見れるようにした。
@@ -24,7 +26,7 @@ iCamを使って外出先から部屋にいる犬の様子を見たいが、MBA�
   - iCam
 
 ## 構成
-![image](http://ift.tt/2vi1qtp)
+![image](/img/icam.png)
 
 ## iPadのウェブカメラ化
 EpocCamというアプリを使って、iPadのカメラ画像をMBAで受信する。
@@ -32,7 +34,7 @@ EpocCamというアプリを使って、iPadのカメラ画像をMBAで受信す
 
 更に、それをCamTwistというアプリで受けることで、ウェブカメラの入力画像のように使えるようになる。
 
-![image](http://ift.tt/2uYxTtD)
+![image](img/2.png)
 
 EpocCamが繋がっている状態 (上図左下) で、CamTwistの設定をSyphonにして、Syphon ServerとしてEpocCam Viewer Proを選択する (上図上) 。
 CamTwistのPreviewにEpocCamと同じ映像が表示されれば成功 (上図右下) 。
@@ -41,6 +43,6 @@ CamTwistのPreviewにEpocCamと同じ映像が表示されれば成功 (上図�
 MBAにiCamSourceというアプリを入れて、VideoにCamTwist (2VUY)を選択する。
 idとパスワードは適当に入力して、右下のStartボタンを押して、EpocCamと同じ映像が表示されれば成功。
 
-![image](http://ift.tt/2vhuf9q)
+![image](img/3.png)
 
 iPhoneに入れたiCamアプリにidとパスワードを入力するとiPadのカメラの映像を見ることができる。

@@ -7,7 +7,7 @@ tags:
 - Smart home
 - Apple TV
 - systemd
-#thumbnailImage: //example.com/image.jpg
+thumbnailImage: /img/alexa_node_red1.png
 ---
 
 最近、AlexaとNode-REDを連携してスマートホームスキルを作っている。
@@ -23,7 +23,7 @@ tags:
 
 ## execにpyatvを設定
 
-![](http://ift.tt/2Eg7OHK)
+![image](/img/alexa_node_red1.png)
 
 こんな感じで、「Alexa, テレビつけて」でmenuボタンを押すようにしたんだけど、うまく動かない。
 よく見ると、`atvremote`コマンドが見つからないというエラーが出ていた。

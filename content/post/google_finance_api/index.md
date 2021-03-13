@@ -1,10 +1,14 @@
-+++
-categories = ["Tech"]
-date = "2017-09-04 23:14:36"
-tags = ["Fintech","Ruby","API"]
-title = "Google Finance APIを使って株価チャートを作成"
-
-+++
+---
+title: "Google Finance APIを使って株価チャートを作成"
+date: 2017-09-04T23:14:36+09:00
+categories:
+- Tech
+tags:
+- Fintech
+- Ruby
+- API
+thumbnailImage: /img/google_finance_api.png
+---
 
 株を買うかどうか判断するために株価チャートに補助線を書いたりする手法があるらしい。
 手軽に補助線（トレンドラインと呼ぶらしい）を引いてくれるスクリプトでも作ろうかと思い、
@@ -101,4 +105,4 @@ end
 これだけ。GoogleFinanceクラスは変わらないので省略した。
 得られたチャートを貼って終わり。
 
-![image](http://ift.tt/2wAIcS7)
+![image](/img/google_finance_api.png)

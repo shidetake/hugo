@@ -1,10 +1,14 @@
-+++
-categories = ["Tech"]
-date = "2017-09-17 16:36:18"
-tags = ["Fintech","Ruby","API"]
-title = "株価チャートからトレンドラインを引く 1"
-
-+++
+---
+title: "株価チャートからトレンドラインを引く 1"
+date: 2017-09-17T16:36:18+09:00
+categories:
+- Tech
+tags:
+- Fintech
+- Ruby
+- API
+thumbnailImage: /img/stock_trendline_1.png
+---
 
 以前、[Google Finance APIにより株価を取得する方法](../google_finance_api/)を書いた。
 このデータからトレンドラインを引くスクリプトを作ろうと思う。
@@ -77,7 +81,7 @@ end
 
 移動平均の期間をどう決めるかが難しいところだが、いったん10日とした。あとで調整する。
 
-![image](http://ift.tt/2jAdPbn)
+![image](img/2.png)
 
 
 ## 極値
@@ -142,7 +146,7 @@ end
 
 GoogleFinanceクラスはcalc_extremumメソッド以外は変わっていないので省略した。
 
-![image](http://ift.tt/2wy0emn)
+![image](/img/stock_trendline_1.png)
 
 少し見にくいが、緑点が極小値、紫点が極大値。それなりにいい具合の場所を選んでいるように思える。
 実際に線を引くのは次回。

@@ -1,10 +1,12 @@
-+++
-categories = ["Tech"]
-date = "2017-08-10 22:26:23"
-tags = ["Smart home"]
-title = "テレビのアンテナ線を無線化する"
-
-+++
+---
+title: "テレビのアンテナ線を無線化する"
+date: 2017-08-10T22:26:23+09:00
+categories:
+- Tech
+tags:
+- Smart home
+thumbnailImage: /img/wireless_tv.png
+---
 
 テレビ端子がイマイチな場所にあって、テレビを置く位置が限られてしまうので無線化を考えた。
 マンションなのでアンテナ設置など大掛かりな方法は除いて、
@@ -31,7 +33,7 @@ title = "テレビのアンテナ線を無線化する"
 - 無線LANルーター 親機
 
 ## 構成
-![image](http://ift.tt/2uZ3rzy)
+![image](/img/wireless_tv.png)
 
 ## 環境構築手順
 0. 無線LAN環境を構築

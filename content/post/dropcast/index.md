@@ -6,7 +6,7 @@ categories:
 tags:
 - shell
 - API
-thumbnailImage: https://ift.tt/2ooqgXo
+thumbnailImage: /img/dropcast.png
 ---
 
 最近Podcastにハマっている。
@@ -18,7 +18,7 @@ Rebuild.fmから始まり、backspace.fm、TCFM、バイリンガルニュース
 <!--more-->
 
 # スクリーンショット
-![image](https://ift.tt/2ooqgXo)
+![image](/img/dropcast.png)
 当然、著作物は私的利用に留めること。
 音源もPodcast配信用のRSSファイルも自分しかアクセスできない場所に置いているので私的利用の範囲内。
 

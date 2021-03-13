@@ -5,7 +5,7 @@ categories:
 - Tech
 tags:
 - Ruby
-thumbnailImage: https://ift.tt/2BIyBPp
+thumbnailImage: /img/reins_map.png
 ---
 
 最近、新築マンションの購入を検討し始めた。
@@ -27,7 +27,7 @@ thumbnailImage: https://ift.tt/2BIyBPp
 
 # スクリーンショット
 完成系のイメージはこんな感じ（というか、完成したスクリプトで作ったマップ）。
-![image](https://ift.tt/2BIyBPp)
+![image](/img/reins_map.png)
 
 東京都心の単価は高すぎてサチってしまっている。
 本来買いたいレンジが単価100万以下なのでしょうがない。

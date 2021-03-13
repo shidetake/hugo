@@ -7,6 +7,7 @@ tags:
 - LINE BOT
 - fintech
 - Google Apps Script
+thumbnailImage: /img/gmail2line.png
 ---
 
 最近はめっきりメールを使わなくなった。iOSもメール機能なんかどうでもいいと思っているのか、
@@ -30,7 +31,7 @@ Google Apps ScriptとLINE Messaging APIを組み合わせて使う。
 IFTTTあたりを使うともっと簡単に作れるが、ポーリング間隔が数時間と長すぎるので今回はNG。
 Google Apps Scriptだと1分間隔でポーリング可能。
 
-![image](http://ift.tt/2BkAaOM)
+![image](/img/gmail2line.png)
 
 
 ## 事前準備

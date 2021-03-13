@@ -1,10 +1,14 @@
-+++
-categories = ["Tech"]
-date = "2017-10-16T22:43:05+09:00"
-tags = ["cron","Raspberry Pi","network"]
-title = "スピードテストを定期的に実行して回線速度の推移を見る"
-
-+++
+---
+title: "スピードテストを定期的に実行して回線速度の推移を見る"
+date: 2017-10-16T22:43:05+09:00
+categories:
+- Tech
+tags:
+- cron
+- Raspberry Pi
+- network
+thumbnailImage: /img/speedtest.png
+---
 
 自宅の回線速度が遅いので、なんとか改善できないか考えている。
 まずは、現状把握ということで、スピードテストを実施した。
@@ -47,7 +51,7 @@ csv形式で左からping値 [ms]、Download [Mbit/s], Upload [Mbit/s], 実行�
 ```
 
 ついでにグラフ化。
-![image](http://ift.tt/2ifbMt0)
+![image](/img/speedtest.png)
 
 昼間は25Mbpsくらい出ているらしい。15時以降から下がりだして、21時から25時までは1桁というありさま。
 
