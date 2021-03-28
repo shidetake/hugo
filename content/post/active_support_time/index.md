@@ -5,7 +5,6 @@ categories:
 - Tech
 tags:
 - Ruby
-#thumbnailImage: //example.com/image.jpg
 ---
 
 Railsではなく素のRubyで日時を扱うときのベストプラクティスについて。

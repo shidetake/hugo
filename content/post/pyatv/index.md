@@ -7,7 +7,6 @@ tags:
 - Apple TV
 - Raspberry Pi
 - Smart home
-#thumbnailImage: //example.com/image.jpg
 ---
 
 スマートホーム化のために、いろんな家電をRaspberry Piで動かせるようにしている。

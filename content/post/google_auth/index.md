@@ -6,7 +6,6 @@ categories:
 tags:
 - Ruby
 - API
-#thumbnailImage: //example.com/image.jpg
 ---
 
 GmailのAPIについては[以前記事にした](../gmail_api_1.md)が、

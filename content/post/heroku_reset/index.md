@@ -6,7 +6,6 @@ categories:
 tags:
 - heroku
 - rails
-#thumbnailImage: //example.com/image.jpg
 ---
 
 HerokuでホスティングしているRailsアプリのDB構造を変えて、

@@ -6,7 +6,6 @@ categories:
 tags:
 - AWS
 - API
-#thumbnailImage: //example.com/image.jpg
 ---
 
 AWSのRDSは使っていないときは停止しないともったいない。

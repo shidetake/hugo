@@ -6,7 +6,6 @@ categories:
 tags:
 - Ripping
 - shell
-#thumbnailImage: //example.com/image.jpg
 ---
 
 DVDのリッピングについて[以前](../ripping_1/)書いたが、ブルーレイに未対応だったので対応した。

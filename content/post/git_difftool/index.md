@@ -6,7 +6,6 @@ categories:
 tags:
 - git
 - dotfile
-#thumbnailImage: //example.com/image.jpg
 ---
 
 少し前まで、`git`のdiffに`vimdiff`を使う場合、`git_diff_wrapper`なるファイルを用意して、

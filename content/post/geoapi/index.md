@@ -6,7 +6,6 @@ categories:
 tags:
 - API
 - Ruby
-#thumbnailImage: //example.com/image.jpg
 ---
 
 Rubyを使う。

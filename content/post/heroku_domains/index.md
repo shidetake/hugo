@@ -5,7 +5,6 @@ categories:
 - Tech
 tags:
 - Heroku
-#thumbnailImage: //example.com/image.jpg
 ---
 
 最近、[Ruby on Railsチュートリアル](https://railstutorial.jp)を進めているんだけど、
