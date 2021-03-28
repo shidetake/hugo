@@ -10,7 +10,7 @@ thumbnailImage: /img/dropcast.png
 ---
 
 最近Podcastにハマっている。
-Rebuild.fmから始まり、backspace.fm、TCFM、バイリンガルニュースなどなど。
+Rebuild.fmから始まり、backspace.fm、TCFM、バイリンガルニュースなど。
 
 その流れで、過去に録ったラジオを聞きたくなり、古いHDDからmp3を引っ張り出してきた。
 できればPodcastと同じように聞きたいなと思い、自分専用に配信すればよいのでは、と考えて作ってみた。
