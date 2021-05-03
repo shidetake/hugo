@@ -1,8 +1,18 @@
 local_url = "localhost"
 
+
 help:
+	@echo 'make new NAME=filename: new post'
 	@echo 'make deploy: deploy'
 	@echo 'make dryrun: local deploy'
+
+new:
+ifeq (${NAME},)
+	echo 'undefined NAME'
+	exit 1
+endif
+	mkdir -p content/post/${NAME}/img
+	hugo new content/post/${NAME}/index.md --editor='nvim'
 
 deploy:
 	hugo
